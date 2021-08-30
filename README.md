@@ -12,4 +12,10 @@ Group work with a private repository and one of you will be a lead a developer a
 - Open source on 10 Days Of Git and GitHub
 
 Sammi - create README.md
-Eline - create Index.html
+Elina - create Index.html
+
+GitIgnore
+Sammi - create account file
+Elina - create password file
+Bot files are under .gitignore file
+
